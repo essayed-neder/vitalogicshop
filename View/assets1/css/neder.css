@@ -1,0 +1,32 @@
+.main-content{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    padding: 1rem;
+    }
+    .card{
+      background-color: #fff;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      background: #fff;
+      box-shadow: 1px 1px 1px 1px #bdbaba;
+      WIDTH: 18%;
+      padding-top: 1rem;
+    }
+    .card-btn{
+      background: lightgreen;
+      border: none;
+      border-radius: 22px;
+      padding: 0.5rem;
+      margin: 1rem;
+      color: #fff;
+    }
+    .image-produit{
+        width: 150px;
+        height: 150px;
+      }
+      .ff{
+        left:100%;
+    }
